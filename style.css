@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(53,53,53);
+    color: whitesmoke;
+}
+
+.top{
+    text-align: center;
+}
+
+header{
+    font-family: 'Tangerine', cursive;
+    font-size: 72px;
+}
+
+h3{
+    font-family: 'Unica One', cursive;
+    font-size: 26px;
+}
+
+h2{
+    font-family: 'Unica One', cursive;
+    margin: 16px;
+    font-size: 26px;
+}
+
+#manyWatches{
+    
+    width: 540px;
+}
+
+#mechanical{
+    float: left;
+    max-height: 200px;
+}
+
+#timex{
+    float: left;
+    margin: 10px;
+}
+
+#pocket{
+    float: left;
+}
+
+watch_description{
+    font-family: 'Dosis', sans-serif;
+    font-size: 16px;
+}
+
+.watch_container{
+    clear:left;
+}
+
+.all_watches_container{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.watch_container{
+    clear:left;
+    border: solid 2px #FDEFA6;
+    border-radius: 13px;
+    background-color: #1A1818;
+    display: inline-block;
+    margin-bottom: 15px;
+    
+}
